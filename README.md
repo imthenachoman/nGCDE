@@ -5,6 +5,13 @@ Google Contact Dates E-Mail (nGCDE) is Google App Script that sends an e-mail of
 
 I wanted to get an e-mail every day of important dates, like upcoming birthdays or anniversaries. So I wrote this Google Apps script. It will generate an e-mail of all the dates in your Google Contacts and send it to you.
 
+# To Use
+
+1. Create a new Google Apps script
+2. Copy and paste the content of nGCDE.js from this GitHub repo
+3. Change the value of EMAIL_TO (line 6)
+4. Create a trigger to run whenever you want
+
 # Example E-mail
 
 The end result is something like this:
