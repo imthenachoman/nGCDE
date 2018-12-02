@@ -9,7 +9,7 @@ I wanted to get an e-mail every day of important dates, like upcoming birthdays 
 
 1. Create a new Google Apps script
 2. Copy and paste the content of nGCDE.js from this GitHub repo
-3. Change the value of EMAIL_TO (line 6)
+3. Change the value of `EMAIL_TO` (line 6)
 4. Create a trigger to run whenever you want
 
 # Example E-mail
